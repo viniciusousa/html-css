@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+
+body{
+
+    background-image: url('./../imagens/wallpaper004.jpg');
+
+    background-size: 100px  100px;
+}
