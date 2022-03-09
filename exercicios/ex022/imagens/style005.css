@@ -15,7 +15,7 @@ color > image > position > repeat > size > attachment
 
 background black url('./../imagens/wallpaper002.jpg'); center center no-repeat cover fixed;
 
- size não funciona no shorthand, tem que fazer ele a parte;
+ SIZE não funciona no shorthand, tem que fazer ele a parte;
 */
 
 }
