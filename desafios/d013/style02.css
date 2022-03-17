@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    width: 300px;
+    height: 300px;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}

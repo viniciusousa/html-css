@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+
+
+
+
+  thead > tr {
+    background-color: gray;
+    color:white;
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+table{
+    border-collapse: collapse;
+    
+}
+
+
+
+th, td {
+
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.media{
+    text-align: left;
+    background-color: gray;
+    color: white;
+}
+
+.zero{
+    background-color: gray;
+    color: white;
+    
+}
+
